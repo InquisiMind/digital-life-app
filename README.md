@@ -9,6 +9,12 @@
 
 再加一套主动性事件系统（作息 + 精力 + 自驱意图全部归一为事件：空闲时唤醒思考，工作中不打断、改为注入，做完事自动收尾）——Agent 因此「活着」，而不是一问一答。
 
+## 下载
+
+**macOS 14+（Apple Silicon）**：前往 [Releases](https://github.com/InquisiMind/digital-life-app/releases/latest) 下载 DMG，安装即用。
+
+首次使用：创建实例只需名字、唤醒词、人设三样；模型 Key 在系统设置里配（任意 OpenAI 兼容接口）。
+
 ## 核心特性
 
 - **主动性**：作息 + 精力 + 自驱事件驱动。没人布置任务，TA 也会自己醒来推进目标——主动性是事件系统唤醒的，不是被人 @ 出来的
@@ -44,15 +50,9 @@
 
 感兴趣再读，不读不影响使用。
 
-## 下载
-
-**macOS 14+（Apple Silicon）**：前往 [Releases](https://github.com/InquisiMind/digital-life-app/releases/latest) 下载 DMG，安装即用。
-
-首次使用：创建实例只需名字、唤醒词、人设三样；模型 Key 在系统设置里配（任意 OpenAI 兼容接口）。
-
 ## 许可与源码
 
-本仓库只提供**安装包**；源码内部维护，默认不随包分发。
+[PolyForm Noncommercial](LICENSE.md)：**个人 / 非商业用途免费**；**商业用途需事先取得书面授权**。
 
-- **个人 / 非商业用途**：免费下载使用，许可见 [PolyForm Noncommercial](LICENSE.md)；**商业用途需事先取得书面授权**。
-- **开发者 / 研究者**需源码：请开 [Issue](https://github.com/InquisiMind/digital-life-app/issues) 说明用途，获取需另行书面授权。
+- 大多数人不需要源码——上面「下载」的安装包开箱即用，这就是给普通使用者的完整路径。
+- 开发者 / 研究者需源码：请开 [Issue](https://github.com/InquisiMind/digital-life-app/issues) 说明用途，获取需另行授权。
