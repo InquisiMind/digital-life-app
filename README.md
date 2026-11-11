@@ -50,6 +50,9 @@
 
 首次使用：创建实例只需名字、唤醒词、人设三样；模型 Key 在系统设置里配（任意 OpenAI 兼容接口）。
 
-## 许可
+## 许可与源码
 
-[PolyForm Noncommercial](LICENSE.md)：**个人 / 非商业用途免费**使用、修改、分发；**商业用途需事先取得书面授权**。
+本仓库只提供**安装包**；源码内部维护，默认不随包分发。
+
+- **个人 / 非商业用途**：免费下载使用，许可见 [PolyForm Noncommercial](LICENSE.md)；**商业用途需事先取得书面授权**。
+- **开发者 / 研究者**需源码：请开 [Issue](https://github.com/InquisiMind/digital-life-app/issues) 说明用途，获取需另行书面授权。

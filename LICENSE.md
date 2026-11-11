@@ -1,9 +1,11 @@
-# Digital Life License — 非商业开源许可（个人免费 · 商用授权）
+# Digital Life License — 个人免费 · 商用需授权
 
 ## 中文摘要（非正式说明，以下方英文条款为准）
 
-- **个人/非商业用途**：免费使用、修改、分发——自用、学习、研究、开源贡献均不受限。
+- **发行形式**：本仓库只提供**安装包（DMG）**；源码内部维护，默认不随包分发。
+- **个人/非商业用途**：免费下载使用——自用、学习、研究均不受限。
 - **商业用途**：任何直接或间接的商业目的（销售、收费服务、集成进商业产品、内部生产性经营使用等）**必须事先取得版权所有者的书面授权**。
+- **开发者/研究者需源码**：请在本仓库开 issue 说明用途，获取需另行书面授权。
 - 商业授权联系：通过 GitHub（[InquisiMind](https://github.com/InquisiMind)）开 issue 或私信洽谈。
 
 ## English Terms
@@ -50,7 +52,7 @@ These terms do not allow you to use or transfer the software in any other way th
 
 ## Personal Information / Privacy
 
-The licensor's personal name and identity information must not be extracted from commit history, documentation, or configuration to circumvent the commercial licensing requirement, and any such content remaining in the distribution is provided "as is" and should be treated respectfully.
+You must not extract the licensor's personal identity from commit history, documentation, or configuration in order to circumvent the commercial licensing requirement. Any such content that remains in the distribution is provided "as is" and should be treated respectfully.
 
 ## No Warranty
 
@@ -62,4 +64,4 @@ You are liable for any harm caused by your use of the software, and the licensor
 
 ---
 
-Copyright © 2026 InquisiMind. Commercial licensing inquiries: open a GitHub issue at <https://github.com/InquisiMind/digital-life-product>.
+Copyright © 2026 InquisiMind. Commercial licensing & source access inquiries: open a GitHub issue at <https://github.com/InquisiMind/digital-life-app>.
