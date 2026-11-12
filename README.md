@@ -15,6 +15,8 @@
 
 **macOS 14+（Apple Silicon）**：前往 [Releases](https://github.com/InquisiMind/digital-life-app/releases/latest) 下载 DMG，安装即用。
 
+> 首次打开若提示「已损坏」：这是 Apple 对未公证应用的通用拦截（与本项目无关，任何无开发者签名的应用都这样）。终端执行 `xattr -cr "/Applications/Digital Life.app"` 后正常打开，只需一次。
+
 首次使用：创建实例只需名字、唤醒词、人设三样；模型 Key 在系统设置里配（任意 OpenAI 兼容接口）。
 
 ## 核心特性
